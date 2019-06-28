@@ -10,7 +10,7 @@ var i
 var result = ''
 client.on('message', message => {
   if (message.content.startsWith('@@')) {
-    if (!Number.isNaN(message.content.split('@@')[1]) && parseInt(message.content.split('@@')[1]) <= 200) {
+    if (!Number.isNaN(message.content.split('@@')[1]) && parseInt(message.content.split('@@')[1]) <= 300) {
       input = (+(message.content.split('@@')[1])).toString(2)
       for(i = 0; i < 8-input.length; i++){
 				result += '0'
