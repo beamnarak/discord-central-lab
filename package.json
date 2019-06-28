@@ -1,0 +1,29 @@
+{
+  "name": "discord-central-lab",
+  "version": "1.0.0",
+  "description": "Calculate Decimal to Binary for entering Central Laboratory",
+  "main": "bot.js",
+  "engines": {
+    "node": "10.16.0",
+    "npm": "6.9.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beamnarak/discord-central-lab.git"
+  },
+  "author": "Beamnarak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beamnarak/discord-central-lab/issues"
+  },
+  "homepage": "https://github.com/beamnarak/discord-central-lab#readme"
+
+}
