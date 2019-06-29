@@ -1,10 +1,6 @@
+require('newrelic');
 const Discord = require('discord.js')
 const client = new Discord.Client()
-var http = require("http");
-
-setInterval(function() {
-    http.get("http://central-lab-bot.herokuapp.com");
-}, 300000); // every 5 minutes (300000)
 
 client.once('ready', () => {
   console.log('Ready!')
