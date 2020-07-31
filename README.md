@@ -8,3 +8,6 @@ for example:<br>
 `@@4 Result: 0000 0100`
 
 you can install it to discord from <a href="https://top.gg/bot/594119641622904883">here</a>
+
+Hosting by Heroku
+Developing with node.js
