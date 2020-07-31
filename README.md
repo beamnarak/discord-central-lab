@@ -1,6 +1,6 @@
 # discord-central-lab
 
-This bot help you convert number from decimal(max:256) to binary.
+This bot helps you convert number from decimal(max:256) to binary.
 just type `@@` and follow with number you want to convert.
 
 for example:<br>
